@@ -1,4 +1,4 @@
-### Hi there 👋
+### not much to read here 👋
 
 <!--
 **4baase/4baase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a student striving to become a god of computer science. The languages I am learning are C++ and Javascript. I hope to someday use .NET and create applcations. ]
-Currently figuring out Github and so I can get that juicy student developer pack...
+can't code for my life
